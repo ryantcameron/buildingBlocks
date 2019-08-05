@@ -1,0 +1,4 @@
+name: buildingBlocks
+main: io.github.ryantcameron.buildingBlocks.buildingBlocks
+version: 0.1
+commands:
